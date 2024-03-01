@@ -1,0 +1,83 @@
+    <svg width="500" height="100" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        body {
+          background-color: black;
+        }
+
+        svg {
+          display: block;
+          margin: auto;
+        }
+
+        .text {
+          fill: white;
+          font-size: 48px;
+          font-family: 'Open Sans', 'Helvetica Neue';
+        }
+
+        @keyframes swoopInLeft {
+          0% {
+            opacity: 0;
+            transform: translateX(-100px);
+          }
+
+          100% {
+            opacity: 1;
+            transform: translateX(0);
+          }
+        }
+
+        @keyframes swoopInRight {
+          0% {
+            opacity: 0;
+            transform: translateX(100px);
+          }
+
+          100% {
+            opacity: 1;
+            transform: translateX(0);
+          }
+        }
+
+        @keyframes swoopInTop {
+          0% {
+            opacity: 0;
+            transform: translateY(-100px);
+          }
+
+          100% {
+            opacity: 1;
+            transform: translateX(0);
+          }
+        }
+
+        @keyframes flash {
+          0%, 100% {
+          opacity: 1;
+          }
+            50% {
+            opacity: 0;
+          }
+        }
+
+        .a {
+          animation: swoopInTop 1.5s forwards;
+        }
+
+        .dernild {
+          animation: swoopInRight 1s forwards;
+          animation-delay: 0.5s;
+        }
+        .prompt {
+          animation: none;
+        }
+
+        .underscore {
+          animation: flash 1s infinite;
+        }
+      </style>
+      <text x="20%" y="50" class="text prompt">></text>
+      <text x="26%" y="50" class="text underscore">_</text>
+      <text x="32%" y="50" class="text a">A</text>
+      <text x="35%" y="50" class="text dernild" dx="20">Dernild</text>
+    </svg>
