@@ -17,6 +17,8 @@ ___
 )](https://react.dev/)
 [![R](https://img.shields.io/badge/R_Lang-blue?style=flat-square&logo=R
 )](https://www.r-project.org/)
+[![Akami Cloud Computing](https://img.shields.io/badge/Akami-s?style=flat-square&logo=akamai&logoColor=%230096D6&labelColor=white&color=white)](https://www.linode.com/lp/refer/?r=a1236b8e74912ccb090628165fa6bf21cb52968f)
+
 ___
 Fyn, Denmark 🇩🇰
 
