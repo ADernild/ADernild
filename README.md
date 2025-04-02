@@ -7,7 +7,7 @@ Data Scientist • DevOps • Full Stack Developer
 - 🔭 I’m currently working as **Data Scientist at SDU RIO**
 - 🌱 I’m currently learning **how to care for a Bonsai**
 - 💬 Ask me about **The Queen of Denmark**
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-Alexander_Dernild-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alexander-dernild)](https://linkedin.com/in/alexander-dernild) [![GitHub](https://img.shields.io/github/followers/adernild?label=follow&style=social)](https://github.com/ADernild) [![Email](https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:alex@dernild.dk)
+- 📫 How to reach me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Alexander_Dernild-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/alexander-dernild) [![GitHub](https://img.shields.io/github/followers/adernild?label=follow&style=social)](https://github.com/ADernild) [![Email](https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:alex@dernild.dk)
 ___
 #### I like to use:
 [![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
